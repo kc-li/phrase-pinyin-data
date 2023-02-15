@@ -2,6 +2,9 @@
 # source: https://github.com/mozillazg/phrase-pinyin-data
 一丁不识: yī dīng bù shí
 一丁点儿: yī dīng diǎn er
+一下: yí xià
+一下儿: yí xià er
+一下子: yí xià zi
 一不小心: yí bù xiǎo xīn
 一不扭众: yī bù niǔ zhòng
 一专多能: yī zhuān duō néng
@@ -398,9 +401,11 @@
 一目十行: yī mù shí háng
 一目数行: yī mù shù háng
 一直: yì zhí
+一直以来: yì zhí yǐ lái
+一直往前: yì zhí wǎng qián
 一直走: yì zhí zǒu
 一相情原: yī xiāng qíng yuán
-一相情愿: yī xiāng qíng yuàn
+一相情愿: yì xiāng qíng yuàn
 一瞑不视: yī míng bù shì
 一知半见: yī zhī bàn jiàn
 一知半解: yī zhī bàn jiě
